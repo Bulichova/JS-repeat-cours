@@ -5,4 +5,13 @@
 // import "./js/booleans.js"
 // import "./js/mathOperators.js"
 // import "./js/logicalOperators.js"
-import './js/branches.js'
+// import './js/branches.js'
+//
+//
+//===PART 2 ===
+// import "./js/arrays.js"
+// import "./js/primitivesAndObjects.js"
+// import './js/objects.js'
+// import './js/destructuring.js'
+// import './js/functions.js'
+import "./js/closures.js"
