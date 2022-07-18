@@ -40,8 +40,10 @@ console.log('classList', body.classList)
 //.add()
 //.remove()
 //.contains(className)
+//.replace (oldClass,newClass)
 //.toggle(className)
 
-console.log('dataset', body.dataset)
+console.log('dataset', body.dataset) // data-attr_name
+
 console.log('style', body.style)
 body.style.backgroundColor = 'yellow'

@@ -1,0 +1,44 @@
+.link {
+  text-decoration: none;
+  display: inline-block;
+  padding: 10px;
+  border: 1px solid;
+}
+.btn-1 {
+  background-color: rgb(216, 92, 92);
+  color: rgb(141, 141, 231);
+}
+
+.btn-2 {
+  background-color: black;
+  color: darkblue;
+}
+
+.btn-3 {
+  background-color: rgb(12, 53, 99);
+  color: rgb(91, 158, 127);
+}
+
+button {
+  border: none;
+  padding: 10px;
+}
+
+.coctailItem {
+  list-style: none;
+  border: 1px solid;
+  padding: 10px;
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 10px;
+  overflow: hidden;
+}
+img {
+  object-fit: contain;
+  display: block;
+}
+div {
+  overflow: hidden;
+}
